@@ -26,6 +26,7 @@
 - Data Science
 - Artificial Intelligence
 - Machine Learning
+- Deep Learning
 - Model Development
 - Statistics
 
