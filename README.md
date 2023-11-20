@@ -16,8 +16,8 @@
 </p>
     
 - **PG Program in Artificial Intelligence and Machine Learning**, University of Texas at Austin & Great Lakes in collaboration with Great learning
-- **PGDM in Marketing & BAIT**, Institute of Management Technology
-- **B.Tech in Electronics & Communication Engineering**, Tezpur University
+- **PGDM in Marketing & BAIT**, Institute of Management Technology, Nagpur
+- **B.Tech in Electronics & Communication Engineering**, Tezpur University, Tezpur
 
 <h3 align="left">Fields of Interests: </a> </h3>
 <p align="left">                            
